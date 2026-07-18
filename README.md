@@ -1,11 +1,5 @@
 # Customer Retention & Revenue Intelligence Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-Cloud%20Analytics-4285F4?logo=googlebigquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Analysis-336791?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Preparation-3776AB?logo=python&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-KPI%20Measures-5E5E5E)
-
 An end-to-end Business Intelligence project built using **Google BigQuery, SQL, Python, DAX, and Power BI** to analyze customer churn, identify revenue at risk, and recommend data-driven retention strategies.
 
 ---
