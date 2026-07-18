@@ -1,4 +1,4 @@
-# 📊 Customer Retention & Revenue Intelligence Dashboard
+# Customer Retention & Revenue Intelligence Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-Cloud%20Analytics-4285F4?logo=googlebigquery&logoColor=white)
@@ -10,7 +10,7 @@ An end-to-end Business Intelligence project built using **Google BigQuery, SQL, 
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Customer churn directly impacts recurring revenue and long-term business growth. This project demonstrates a complete cloud-based analytics workflow—from data preparation and SQL analysis in Google BigQuery to interactive Power BI dashboards that support executive decision-making.
 
@@ -24,7 +24,7 @@ Customer churn directly impacts recurring revenue and long-term business growth.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Google Cloud Platform (BigQuery)
 - SQL
@@ -35,7 +35,7 @@ Customer churn directly impacts recurring revenue and long-term business growth.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 customer-retention-revenue-intelligence/
@@ -50,7 +50,7 @@ customer-retention-revenue-intelligence/
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ### Executive Overview
 Provides a high-level view of customer count, revenue, churn rate, and revenue at risk.
@@ -69,7 +69,7 @@ Summarizes business insights and proposes actionable strategies to reduce churn 
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Month-to-Month contracts experienced the highest churn.
 - Fiber Optic customers generated the highest revenue but also the highest churn.
@@ -79,7 +79,7 @@ Summarizes business insights and proposes actionable strategies to reduce churn 
 
 ---
 
-## 🎯 Business Recommendations
+## Business Recommendations
 
 - Encourage customers to migrate to long-term contracts.
 - Launch targeted retention campaigns for Fiber Optic customers.
@@ -89,7 +89,7 @@ Summarizes business insights and proposes actionable strategies to reduce churn 
 
 ---
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 
 - SQL
 - Google BigQuery
@@ -105,6 +105,6 @@ Summarizes business insights and proposes actionable strategies to reduce churn 
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Nayanika Reddy Bobbili**
